@@ -37,7 +37,8 @@ alter table student add department char(30);
 
 ```
 ### OUTPUT:
-![image](https://github.com/ARUNKUMART9968/G2_DBMS/assets/121215794/9ee913f2-a82f-4b3d-a2bb-d5f2254184d1
+![image](https://github.com/AtchayaSundaramoorthy/G2_DBMS/assets/119393516/511f44c5-af57-45ee-9f5c-99cd55d712f3)
+
 
 ### 3) Drop the student table
  
@@ -47,7 +48,8 @@ drop table student;
 
 ```
 ### OUTPUT:
-![image](https://github.com/ARUNKUMART9968/G2_DBMS/assets/121215794/fbbd4d76-7f7f-4a96-876d-ea3f7688a81f)
+![image](https://github.com/AtchayaSundaramoorthy/G2_DBMS/assets/119393516/15051a74-504c-4170-970b-f74d43b834a7)
+
 
 
 ### 4) Delete the student table using truncate keyword
@@ -57,7 +59,8 @@ truncate table student;
 
 ```
 ### OUTPUT:
-![image](https://github.com/ARUNKUMART9968/G2_DBMS/assets/121215794/a588479f-0b33-4e5a-88cd-e8b2e2069a77)
+![image](https://github.com/AtchayaSundaramoorthy/G2_DBMS/assets/119393516/1a132a0a-6b93-40d0-adb1-901fcd435345)
+
 
 ### 5) Rename the student table to mystudent
 ### SQL QUERY: 
@@ -66,7 +69,8 @@ alter table student rename to mystudent;
 
 ```
 ### OUTPUT:
-![image](https://github.com/ARUNKUMART9968/G2_DBMS/assets/121215794/0c723764-5e0e-49ce-927b-b1fdd0a03f66)
+![image](https://github.com/AtchayaSundaramoorthy/G2_DBMS/assets/119393516/cb6d4559-2855-4a08-8f88-54da732398d0)
+
 
 ### RESULT:
 To create a student database and execute DDL queries using SQL is executed successfully.
